@@ -1,3 +1,11 @@
+![registerPage](https://github.com/SiddheshJagdale/chat-app/blob/master/Images/register.png)
+![setAvatarPage](https://github.com/SiddheshJagdale/chat-app/blob/master/Images/setAvatar.png)
+![chatPage](https://github.com/SiddheshJagdale/chat-app/blob/master/Images/chat.png)
+![chatPage2](https://github.com/SiddheshJagdale/chat-app/blob/master/Images/chat2.png)
+
+
+
+
 # ChatApp
 
 ## Overview
