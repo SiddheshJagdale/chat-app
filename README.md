@@ -40,7 +40,7 @@ ChatApp is a real-time chat application built using the MERN stack (MongoDB, Exp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chatapp.git](https://github.com/SiddheshJagdale/chat-app.git
+   git clone https://github.com/SiddheshJagdale/chatapp.git
    cd chatapp
    ```
 
